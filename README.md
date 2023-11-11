@@ -17,7 +17,7 @@
 
 
 <div>
-  <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
+  <p>Amo aprender coisas de novas áreas!</p>
 </div>
 
 Sou formada em Téc. de Segurança do Trabalho  .<br> 
