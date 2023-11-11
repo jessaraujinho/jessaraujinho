@@ -21,7 +21,7 @@ Sou formada em Téc. de Segurança do Trabalho  .<br>
 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades  me desenvolvendo .<br>
  
 <div>
-  <a heref="https://www.instagram.com/jess.araujinho/"target="_blank"><i class="ph ph-instagram-logo"></i></a>
+  <a heref="#"target= _blank><img src="https://www.instagram.com/jess.araujinho/"target="_blank"><i class="ph ph-instagram-logo"></i></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/guhferiani" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
