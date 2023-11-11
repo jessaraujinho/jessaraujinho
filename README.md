@@ -1,51 +1,87 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5187&background=08080800&random=false&width=435&lines=oiii...Eu+sou+a+J%C3%A9ssica+%3C3" alt="Typing SVG" /></a>
-## 💻 Ferramentas e Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Ilustrator-f8a829?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/figma-ff4b14?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Canva-5cceff?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
-</div>
-  
- ## 
-## 💻🍺🧙: Sobre Mim
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Profissional</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body>
+    <main class="#">
+        <header class="imagem">
+            <img src="img/imagen.jpg" alt="Perfil">
+        </header>
+        <div class="name">Kauan Lobo</div>
+            <section class="redes-sociais">
+                <div class="icon">
+                    <a href="https://github.com/Kauanlobo" target="_blank"><i class="ph ph-github-logo"></i></a>
+                    <span><a href="https://github.com/Kauanlobo">GitHub</a></span>
+                </div>
+                <div class="icon">
+                    <a href="https://instagram.com/off.lobox?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><i class="ph ph-instagram-logo"></i></a>
+                    <span><a href="https://instagram.com/off.lobox?igshid=OGQ5ZDc2ODk2ZA==">Instagram</a></span>
+                </div>
+                <div class="icon">
+                    <a href="https://www.facebook.com/off.lobox16?mibextid=ZbWKwL" target="_blank"><i class="ph ph-facebook-logo"></i></a>
+                    <span><a href="https://www.facebook.com/off.lobox16?mibextid=ZbWKwL">Facebook</a></span>
+                </div>
+                <div class="icon">
+                    <a href="https://twitter.com/Lobozinx?t=TpZen-S7SJbWulSvr5EmTg&s=09" target="_blank"><i class="ph ph-twitter-logo"></i></a>
+                    <span><a href="https://twitter.com/Lobozinx?t=TpZen-S7SJbWulSvr5EmTg&s=09">Twitch</a></span>
+                </div>
+                <div id="email">
+                    <a href="kauanlobo354@gmail.com">
+                    <i class="ph-bold ph-envelope-simple"></i></a>
+                </div>
+            </section> <!-- Fim das Redes Sociais  -->
+            
+        <div class="texto">
+            <h2 id="sobre-mim"> Sobre mim</h2>
 
+            <p> 
+                Olá, sou Kauan Lobo tenho 19 anos, gosto de esportes,escutar musica,comer e jogar jogos de pc ou video game.
+                Sou uma pessoa bem extrovertida e gosto muito de aprender sobre tecnologia
+            </p>     
+        </div> <!-- fim sobre mim -->
+        <h2 class="subtitulo"> Conhecimento Front-End </h2>
 
-<div>
-  <p>Amo aprender coisas de novas áreas!</p>
-</div>
+        <div class="linguagem"> <!-- Linguagens de Programação -->
+            
+            <img src="img/front.jpeg" alt="Linguagens para Front End">
+            
+            <img src="img/back.jpeg" alt="Linguagens de Programação">
+          
+        </div>
 
-Sou formada em Téc. de Segurança do Trabalho  .<br> 
-Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades  me desenvolvendo .<br>
- 
-<div>
-  <a heref="#"target= _blank><img src="https://www.instagram.com/jess.araujinho/"target="_blank"><i class="ph ph-instagram-logo"></i></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/guhferiani" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="#"> <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<h2 class="subtitulo"> Conheça meus Eventos </h2>
+  <section class="Projetos">
+    
+    <div class="item" id="album">Album de Fotos</div>
+        <iframe class="video" id="videoAlbum"
+        width="500" height="240" src="https://www.youtube.com/embed/2zFe_T2323c"
+         title="Critérios de desempate do app Geração SESI SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+         allowfullscreen></iframe>
 
+    <div class="item" id="livre"> Video Livre</div>
+        <iframe class="video" id="videoLivre"
+         width="500" height="240" src="https://www.youtube.com/embed/2zFe_T2323c" 
+         title="Critérios de desempate do app Geração SESI SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+    
+    <div class="item" id="gerar">Gerar musica</div>
+        <iframe class="video" id="gerarMusica" 
+        width="500"height="240" src="https://www.youtube.com/embed/2zFe_T2323c"
+          title="Critérios de desempate do app Geração SESI SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+           allowfullscreen></iframe>
+  </section>
+    
+    <footer class="rodape">
+        <p class="ult-paragrafo">&copy; 2023 - Kauan Lobo </p>
+    </footer>
 
- ## :mortar_board: Github Stats
-<div>
-  <a href="https://github.com/guuhferiani"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessaraujinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessaraujinho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-##
-<div>
-Loanding   
-</div>
-<div>
-  <picture align="center"> 
-    <img src="https://github.com/jessaraujinho/jessaraujinho/blob/main/snake-svg.svg">
-  </picture
-</div>
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>
